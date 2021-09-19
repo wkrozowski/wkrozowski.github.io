@@ -8,5 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-I am PhD student at [Programming Principles, Logic and Verification Group](http://pplv.cs.ucl.ac.uk/welcome/) at [University College London](https://www.ucl.ac.uk/) and I work under supervision of [Prof. Alexandra Silva](https://alexandrasilva.org/#/main.html) from [Cornell University](https://www.cs.cornell.edu/). Before that I received a BSc in Computer Science from [University of Southampton](https://www.southampton.ac.uk/), where I was supervised by [https://www.ecs.soton.ac.uk/people/jr1a06](Dr Julian Rathke) working on Agda-verified abstract machines for $lambda$-calculus. 
+I am PhD student in [Programming Principles, Logic and Verification Group](http://pplv.cs.ucl.ac.uk/welcome/) at [University College London](https://www.ucl.ac.uk/) supervised by [Prof. Alexandra Silva](https://alexandrasilva.org/#/main.html) from [Cornell University](https://www.cs.cornell.edu/). My research interests mainly involve programming languages theory as well as verification. 
 
+Before that I received a BSc in Computer Science from [University of Southampton](https://www.southampton.ac.uk/), where I was supervised by [Dr Julian Rathke](https://www.ecs.soton.ac.uk/people/jr1a06). As an intern, I worked in Software and Large Scale Systems Group in [ARM Research](https://www.arm.com/resources/research) in Cambridge, as well as in Goldman Sachs in London.
