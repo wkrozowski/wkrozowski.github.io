@@ -14,6 +14,10 @@ Before that I received a BSc in Computer Science from the [University of Southam
 
 In my free time, you can usually spot me hiking or horse riding through Polish bits of the Carpathian mountains.
 
+Papers, pre-prints and disseratations
+===
+* W.Rozowski, Formally verified derivation of an executable and terminating CEK machine from call-by-value λp̂-calculus - [BSc thesis, University of Southampton](gooogle.com), [Extended abstract, ICFP'21 SRC](https://github.com/wkrozowski/CEK-from-lambda-p-hat/blob/main/icfp21src-paper1.pdf)
+
 News
 ====
 * September 2021 - Joined [UCL PPLV](http://pplv.cs.ucl.ac.uk/welcome/) as a PhD student.
