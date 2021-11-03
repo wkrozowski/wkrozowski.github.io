@@ -21,7 +21,7 @@ News
 * July 2021 - Graduated with BSc Computer Science with first class honours from [University of Southampton](https://www.ecs.soton.ac.uk/).
 * June 2021 - Joined  [Goldman Sachs](https://www.goldmansachs.com/careers/divisions/engineering/) as Summer Analyst working as intern in Site Reliability Engineering team in London office
 
-Papers, pre-prints and disseratations
+Papers, pre-prints and theses
 ===
 * W.Rozowski, "Formally verified derivation of an executable and terminating CEK machine from call-by-value λp̂-calculus" - [[Extended abstract, SRC, ICFP, 2021]](./files/icfp21src-paper1.pdf), [[BSc thesis, University of Southampton, 2021]](./files/report.pdf)
 
