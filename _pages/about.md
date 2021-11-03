@@ -23,7 +23,7 @@ News
 
 Papers, pre-prints and disseratations
 ===
-* W.Rozowski, Formally verified derivation of an executable and terminating CEK machine from call-by-value λp̂-calculus - [[Extended abstract, SRC, ICFP, 2021]](./files/icfp21src-paper1.pdf), [[BSc thesis, University of Southampton, 2021]](./files/report.pdf)
+* W.Rozowski, "Formally verified derivation of an executable and terminating CEK machine from call-by-value λp̂-calculus" - [[Extended abstract, SRC, ICFP, 2021]](./files/icfp21src-paper1.pdf), [[BSc thesis, University of Southampton, 2021]](./files/report.pdf)
 
 Teaching
 ===
