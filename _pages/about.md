@@ -16,7 +16,7 @@ In my free time, you can usually spot me hiking or horse riding through Polish b
 
 Papers, pre-prints and disseratations
 ===
-* W.Rozowski, Formally verified derivation of an executable and terminating CEK machine from call-by-value λp̂-calculus - [[Extended abstract, Student Research Competition, ICFP, 2021]](https://github.com/wkrozowski/CEK-from-lambda-p-hat/blob/main/icfp21src-paper1.pdf), [[BSc thesis, University of Southampton, 2021]](gooogle.com),
+* W.Rozowski, Formally verified derivation of an executable and terminating CEK machine from call-by-value λp̂-calculus - [[Extended abstract, Student Research Competition, ICFP, 2021]](./files/icfp21src-paper1.pdf), [[BSc thesis, University of Southampton, 2021]](./files/icfp21src-paper1.pdf),
 
 News
 ====
