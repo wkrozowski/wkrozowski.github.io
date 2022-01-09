@@ -27,4 +27,5 @@ Papers, pre-prints and theses
 
 Teaching
 ===
+* Assistant for [Mathematics and Statistics](https://www.ucl.ac.uk/module-catalogue/modules/logic-and-database-theory/COMP0011) - UCL - Semester 2 - 2021/2022
 * Assistant for [Logic and Database Theory](https://www.ucl.ac.uk/module-catalogue/modules/logic-and-database-theory/COMP0009) - UCL - Semester 1 - 2021/2022
