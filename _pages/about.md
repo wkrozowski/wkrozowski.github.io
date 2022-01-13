@@ -25,6 +25,10 @@ Papers, pre-prints and theses
 ===
 * W.Rozowski, "Formally verified derivation of an executable and terminating CEK machine from call-by-value λp̂-calculus" - [[Extended abstract, SRC, ICFP, 2021]](./files/icfp21src-paper1.pdf), [[BSc thesis, University of Southampton, 2021]](./files/report.pdf)
 
+Talks
+===
+* Programming Principles, Logic and Verification Group Seminar - January 2021
+
 Teaching
 ===
 * Assistant for [Mathematics and Statistics](https://www.ucl.ac.uk/module-catalogue/modules/logic-and-database-theory/COMP0011) - UCL - Semester 2 - 2021/2022
