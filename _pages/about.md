@@ -27,7 +27,7 @@ Papers, pre-prints and theses
 
 Talks
 ===
-* Programming Principles, Logic and Verification Group Seminar - January 2021
+* Programming Principles, Logic and Verification Group Seminar - January 2022 - [slides](./files/PPLV_presentation%20(7).pdf
 
 Teaching
 ===
