@@ -23,7 +23,8 @@ News
 
 Papers, pre-prints and theses
 ===
-* W.Rozowski, "Formally verified derivation of an executable and terminating CEK machine from call-by-value λp̂-calculus" - [[Extended abstract, SRC, ICFP, 2021]](./files/icfp21src-paper1.pdf), [[BSc thesis, University of Southampton, 2021]](./files/report.pdf)
+* [Todd Schmid](https://fauxefox.github.io/toddwayneschmid/index.html), Wojciech Rozowski, [Alexandra Silva](https://alexandrasilva.org/#/main.html) and [Jurriaan Rot](http://jurriaan.creativecode.org/), "Processes Parametrised by an Algebraic Theory" - [[arxiv preprint]](https://arxiv.org/abs/2202.06901)
+* Wojciech Rozowski, "Formally verified derivation of an executable and terminating CEK machine from call-by-value λp̂-calculus" - [[Extended abstract, SRC, ICFP, 2021]](./files/icfp21src-paper1.pdf), [[BSc thesis, University of Southampton, 2021]](./files/report.pdf)
 
 Talks
 ===
