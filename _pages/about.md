@@ -22,10 +22,10 @@ News
 * July 2021 - Graduated with BSc Computer Science with first class honours from [University of Southampton](https://www.ecs.soton.ac.uk/).
 * June 2021 - Joined  [Goldman Sachs](https://www.goldmansachs.com/careers/divisions/engineering/) as Summer Analyst working as intern in Site Reliability Engineering team in London office
 
-Papers, pre-prints and theses
+Research
 ===
-* [Todd Schmid](https://fauxefox.github.io/toddwayneschmid/index.html), Wojciech Rozowski, [Alexandra Silva](https://alexandrasilva.org/#/main.html) and [Jurriaan Rot](http://jurriaan.creativecode.org/), "Processes Parametrised by an Algebraic Theory" - [[arxiv preprint, 2022]](https://arxiv.org/abs/2202.06901)
-* Wojciech Rozowski, "Formally verified derivation of an executable and terminating CEK machine from call-by-value λp̂-calculus" - [[Extended abstract, SRC, ICFP, 2021]](./files/icfp21src-paper1.pdf), [[BSc thesis, University of Southampton, 2021]](./files/report.pdf)
+* (02/2022) [Todd Schmid](https://fauxefox.github.io/toddwayneschmid/index.html), Wojciech Rozowski, [Alexandra Silva](https://alexandrasilva.org/#/main.html) and [Jurriaan Rot](http://jurriaan.creativecode.org/), "Processes Parametrised by an Algebraic Theory" - [[arxiv preprint]](https://arxiv.org/abs/2202.06901)
+* (05/2021) Wojciech Rozowski, "Formally verified derivation of an executable and terminating CEK machine from call-by-value λp̂-calculus" - [[Extended abstract, SRC, ICFP]](./files/icfp21src-paper1.pdf), [[BSc thesis, University of Southampton]](./files/report.pdf)
 
 Talks
 ===
