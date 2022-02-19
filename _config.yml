@@ -86,7 +86,7 @@ author:
   location         : "Room B.09.22<br>Department of Computer Science<br>University College London<br>66-72 Gower Street<br>London<br>WC1E 6BT<br>United Kingdom"
   employer         :
   pubmed           : 
-  googlescholar    : 
+  googlescholar    : https://scholar.google.com/citations?hl=pl&user=5v5fPJYAAAAJ
   email            : W.Rozowski@cs.ucl.ac.uk
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
