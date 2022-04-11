@@ -29,6 +29,7 @@ Research
 
 Talks
 ===
+* Midlands Graduate School in Foundations of Computer Science - April 2022 - [slides](./files/MGS_Presentation.pdf)
 * Programming Principles, Logic and Verification Group Seminar - January 2022 - [slides](./files/PPLV_presentation%20(7).pdf)
 
 Teaching
