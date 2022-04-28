@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student in [Programming Principles, Logic and Verification Group](http://pplv.cs.ucl.ac.uk/welcome/) at [University College London](https://www.ucl.ac.uk/) supervised by [Prof. Alexandra Silva](https://alexandrasilva.org/#/main.html). My current research interests include coalgebra, Kleene algebras, semantics and verification.
+I am a PhD student in [Programming Principles, Logic and Verification Group](http://pplv.cs.ucl.ac.uk/welcome/) at [University College London](https://www.ucl.ac.uk/) currently visiting [Cornell Univeristy](https://www.cs.cornell.edu/). I am supervised by [Prof. Alexandra Silva](https://alexandrasilva.org/#/main.html). My current research interests include coalgebra, process algebras, semantics and algebraic theories.
 
 Before that I received a BSc in Computer Science from the [University of Southampton](https://www.ecs.soton.ac.uk/), where I was supervised by [Dr Julian Rathke](https://www.ecs.soton.ac.uk/people/jr1a06). As an intern, I worked in Software and Large Scale Systems Group in [ARM Research](https://www.arm.com/resources/research) in Cambridge, as well as in [Goldman Sachs](https://www.goldmansachs.com/careers/divisions/engineering/) in London.
 
@@ -16,6 +16,7 @@ In my free time, you can usually spot me hiking or horse riding through Polish b
 
 News
 ====
+* April 2022 - Started my internship at [Cornell University](https://www.cs.cornell.edu/)!
 * April 2022 - Attended [Midlands Graduate School](http://www.cs.nott.ac.uk/MGS/) in Nottigham. Gave a short talk on "Processes Parametrised by an Algebraic Theory", which was recently accepted to [ICALP 2022](https://icalp2022.irif.fr/?page_id=85)!
 * February 2022 - The preprint "Processes Parametrised by an Algebraic Theory" (by [Todd Schmid](https://fauxefox.github.io/toddwayneschmid/index.html), [Alexandra Silva](https://alexandrasilva.org/#/main.html), [Jurriaan Rot](http://jurriaan.creativecode.org/) and me) is available on [arxiv](https://arxiv.org/abs/2202.06901).
 * September 2021 - Joined [UCL PPLV](http://pplv.cs.ucl.ac.uk/welcome/) as a PhD student.
