@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student in [Programming Principles, Logic and Verification Group](http://pplv.cs.ucl.ac.uk/welcome/) at [University College London](https://www.ucl.ac.uk/) currently visiting [Cornell Univeristy](https://www.cs.cornell.edu/). I am supervised by [Prof. Alexandra Silva](https://alexandrasilva.org/#/main.html). My current research interests include coalgebra, process algebras, semantics and algebraic theories.
+I am a PhD student in [Programming Principles, Logic and Verification Group](http://pplv.cs.ucl.ac.uk/welcome/) at [University College London](https://www.ucl.ac.uk/) currently visiting [Cornell Univeristy](https://www.cs.cornell.edu/). I am supervised by [Prof. Alexandra Silva](https://alexandrasilva.org/#/main.html). My current research interests include coalgebra, process algebras, semantics and verification of probabilistic programs.
 
 Before that I received a BSc in Computer Science from the [University of Southampton](https://www.ecs.soton.ac.uk/), where I was supervised by [Dr Julian Rathke](https://www.ecs.soton.ac.uk/people/jr1a06). As an intern, I worked in Software and Large Scale Systems Group in [ARM Research](https://www.arm.com/resources/research) in Cambridge, as well as in [Goldman Sachs](https://www.goldmansachs.com/careers/divisions/engineering/) in London.
 
