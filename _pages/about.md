@@ -16,6 +16,7 @@ In my free time, you can usually spot me hiking or horse riding through Polish b
 
 News
 ====
+* October 2022 - Passed my first year viva!
 * June 2022 - My presentation on "Probabilistic Guarded Kleene Algebra with Tests" got accepted to [VeriProP](https://veriprop.github.io/2022/) workshop, which will take place during FLoC 2022.
 * April 2022 - Started my internship at [Cornell University](https://www.cs.cornell.edu/). Earlier, attended [Midlands Graduate School](http://www.cs.nott.ac.uk/MGS/) in Nottigham. Gave a short talk on "Processes Parametrised by an Algebraic Theory", which was recently accepted to [ICALP 2022](https://icalp2022.irif.fr/?page_id=85)!
 * February 2022 - The preprint "Processes Parametrised by an Algebraic Theory" (by [Todd Schmid](https://fauxefox.github.io/toddwayneschmid/index.html), [Alexandra Silva](https://alexandrasilva.org/#/main.html), [Jurriaan Rot](http://jurriaan.creativecode.org/) and me) is available on [arxiv](https://arxiv.org/abs/2202.06901).
@@ -37,5 +38,7 @@ Talks
 
 Teaching
 ===
+* Assistant for [Computability and Complexity Theory](https://www.ucl.ac.uk/module-catalogue/modules/computability-and-complexity-theory/COMP0017) - UCL - Semester 1 - 2022/2023
+* Assistant for [Logic and Database Theory](https://www.ucl.ac.uk/module-catalogue/modules/logic-and-database-theory/COMP0009) - UCL - Semester 1 - 2022/2023
 * Assistant for [Mathematics and Statistics](https://www.ucl.ac.uk/module-catalogue/modules/logic-and-database-theory/COMP0011) - UCL - Semester 2 - 2021/2022
 * Assistant for [Logic and Database Theory](https://www.ucl.ac.uk/module-catalogue/modules/logic-and-database-theory/COMP0009) - UCL - Semester 1 - 2021/2022
