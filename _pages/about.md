@@ -16,6 +16,8 @@ In my free time, you can usually spot me hiking or horse riding through Polish b
 
 News
 ====
+* February 2023 - Got accepted for [Adjoint School 2023](https://adjointschool.com/2023.html) to a coalgebra/metric bisimulation project!
+* January 2023 - Visiting [Cornell University](https://www.cs.cornell.edu/).
 * October 2022 - Passed my first year viva!
 * June 2022 - My presentation on "Probabilistic Guarded Kleene Algebra with Tests" got accepted to [VeriProP](https://veriprop.github.io/2022/) workshop, which will take place during FLoC 2022.
 * April 2022 - Started my internship at [Cornell University](https://www.cs.cornell.edu/). Earlier, attended [Midlands Graduate School](http://www.cs.nott.ac.uk/MGS/) in Nottigham. Gave a short talk on "Processes Parametrised by an Algebraic Theory", which was recently accepted to [ICALP 2022](https://icalp2022.irif.fr/?page_id=85)!
@@ -32,12 +34,14 @@ Research
 
 Talks
 ===
+* Cornell [Programming Languages Discussion Group](https://pl.cs.cornell.edu/pldg/2023sp/) - Ithaca - February 2023
 * The Workshop on Verification of Probabilistic Programs - Haifa - August 2022 - [slides](./files/veriprop.pdf)
 * Midlands Graduate School in Foundations of Computer Science - Nottingham - April 2022 - [slides](./files/MGS_Presentation.pdf)
 * Programming Principles, Logic and Verification Group Seminar - London - January 2022 - [slides](./files/PPLV_presentation%20(7).pdf)
 
 Teaching
 ===
+* Assistant for [Intermediate Mathematics for Computer Science](https://www.ucl.ac.uk/module-catalogue/modules/intermediate-mathematics-for-computer-science-COMP0199) - UCL - Semester 2 - 2022/2023
 * Assistant for [Computability and Complexity Theory](https://www.ucl.ac.uk/module-catalogue/modules/computability-and-complexity-theory/COMP0017) - UCL - Semester 1 - 2022/2023
 * Assistant for [Logic and Database Theory](https://www.ucl.ac.uk/module-catalogue/modules/logic-and-database-theory/COMP0009) - UCL - Semester 1 - 2022/2023
 * Assistant for [Mathematics and Statistics](https://www.ucl.ac.uk/module-catalogue/modules/logic-and-database-theory/COMP0011) - UCL - Semester 2 - 2021/2022
