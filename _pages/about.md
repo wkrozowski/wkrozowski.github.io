@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student in [Programming Principles, Logic and Verification Group](http://pplv.cs.ucl.ac.uk/welcome/) at [University College London](https://www.ucl.ac.uk/) supervised by [Alexandra Silva](https://alexandrasilva.org/#/main.html) and [Samson Abramsky](https://www.cs.ox.ac.uk/people/samson.abramsky/). My current research interests include coalgebra, formal semantics of programming languages and software verification.
+I am a PhD student in [Programming Principles, Logic and Verification Group](http://pplv.cs.ucl.ac.uk/welcome/) at [University College London](https://www.ucl.ac.uk/) supervised by [Alexandra Silva](https://alexandrasilva.org/#/main.html) and [Samson Abramsky](https://www.cs.ox.ac.uk/people/samson.abramsky/). My current research interests are probabilistic variants of Kleene algebra and their completeness theorems, however more generally I am interested in coalgebraic semantics of probabilistic/quantitative systems.
 
 Before that I received a BSc in Computer Science from the [University of Southampton](https://www.ecs.soton.ac.uk/), where I was supervised by [Dr Julian Rathke](https://www.ecs.soton.ac.uk/people/jr1a06). As an intern, I worked in Software and Large Scale Systems Group in [ARM Research](https://www.arm.com/resources/research) in Cambridge, as well as in [Goldman Sachs](https://www.goldmansachs.com/careers/divisions/engineering/) in London.
 
@@ -16,7 +16,7 @@ In my free time, you can usually spot me hiking or horse riding through Polish b
 
 News
 ====
-* February 2023 - Got accepted for [Adjoint School 2023](https://adjointschool.com/2023.html) to a coalgebra/metric bisimulation project!
+* February 2023 - Got accepted for [Adjoint School 2023](https://adjointschool.com/2023.html) to a metric bisimulation project!
 * January 2023 - Visiting [Cornell University](https://www.cs.cornell.edu/).
 * October 2022 - Passed my first year viva!
 * June 2022 - My presentation on "Probabilistic Guarded Kleene Algebra with Tests" got accepted to [VeriProP](https://veriprop.github.io/2022/) workshop, which will take place during FLoC 2022.
