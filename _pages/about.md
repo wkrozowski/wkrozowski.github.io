@@ -48,4 +48,4 @@ Teaching
 * Assistant for [Logic and Database Theory](https://www.ucl.ac.uk/module-catalogue/modules/logic-and-database-theory/COMP0009) - UCL - Semester 1 - 2021/2022
 
 Jupyter Notebooks for COMP0199
-* [Euler's method](Eulers_Method_Questions.ipynb)
+* [Euler's method](./files/Eulers_Method_Questions.ipynb)
