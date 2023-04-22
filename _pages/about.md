@@ -30,12 +30,13 @@ News
 
 Research
 ===
-* Wojciech Rozowski, [Tobias Kappé](https://tobias.kap.pe), [Dexter Kozen](https://www.cs.cornell.edu/~kozen/), [Todd Schmid](https://toddtoddtodd.net) and [Alexandra Silva](https://alexandrasilva.org/#/main.html)), "Probabilistic Guarded KAT Modulo Bisimilarity: Completeness and Complexity" - [Preprint forthcoming] (Accepted to ICALP 2023)
+* Wojciech Rozowski, [Tobias Kappé](https://tobias.kap.pe), [Dexter Kozen](https://www.cs.cornell.edu/~kozen/), [Todd Schmid](https://toddtoddtodd.net) and [Alexandra Silva](https://alexandrasilva.org/#/main.html), "Probabilistic Guarded KAT Modulo Bisimilarity: Completeness and Complexity" - [Preprint forthcoming] (Accepted to ICALP 2023)
 * [Todd Schmid](https://fauxefox.github.io/toddwayneschmid/index.html), Wojciech Rozowski, [Alexandra Silva](https://alexandrasilva.org/#/main.html) and [Jurriaan Rot](http://jurriaan.creativecode.org/), "Processes Parametrised by an Algebraic Theory" - [[arxiv preprint]](https://arxiv.org/abs/2202.06901) (Accepted to ICALP 2022)
 * Wojciech Rozowski, "Formally verified derivation of an executable and terminating CEK machine from call-by-value λp̂-calculus" - [[Extended abstract, SRC, ICFP]](./files/icfp21src-paper1.pdf), [[BSc thesis, University of Southampton]](./files/report.pdf)
 
 Talks
 ===
+* [Adjoint School](https://adjointschool.com/2023.html) Seminar (joint talk with Johanna Maria Kirss and Matina Najafi)- Online - April 2023 - [slides](./files/adjoint.pdf)
 * Cornell [Programming Languages Discussion Group](https://pl.cs.cornell.edu/pldg/2023sp/) - Ithaca - February 2023
 * The Workshop on Verification of Probabilistic Programs - Haifa - August 2022 - [slides](./files/veriprop.pdf)
 * Midlands Graduate School in Foundations of Computer Science - Nottingham - April 2022 - [slides](./files/MGS_Presentation.pdf)
