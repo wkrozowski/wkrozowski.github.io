@@ -21,16 +21,10 @@ News
 * January 2023 - Visiting [Cornell University](https://www.cs.cornell.edu/).
 * October 2022 - Passed my first year viva!
 * June 2022 - My presentation on "Probabilistic Guarded Kleene Algebra with Tests" got accepted to [VeriProP](https://veriprop.github.io/2022/) workshop, which will take place during FLoC 2022.
-* April 2022 - Started my internship at [Cornell University](https://www.cs.cornell.edu/). Earlier, attended [Midlands Graduate School](http://www.cs.nott.ac.uk/MGS/) in Nottigham. Gave a short talk on "Processes Parametrised by an Algebraic Theory", which was recently accepted to [ICALP 2022](https://icalp2022.irif.fr/?page_id=85)!
-* February 2022 - The preprint "Processes Parametrised by an Algebraic Theory" (by [Todd Schmid](https://fauxefox.github.io/toddwayneschmid/index.html), [Alexandra Silva](https://alexandrasilva.org/#/main.html), [Jurriaan Rot](http://jurriaan.creativecode.org/) and me) is available on [arxiv](https://arxiv.org/abs/2202.06901).
-* September 2021 - Joined [UCL PPLV](http://pplv.cs.ucl.ac.uk/welcome/) as a PhD student.
-* August 2021 - My [paper](https://github.com/wkrozowski/CEK-from-lambda-p-hat/blob/main/icfp21src-paper1.pdf) won First Prize at Student Research Competition at [ICFP'21](https://icfp21.sigplan.org/track/icfp-2021-student-research-competition#About) in the undergraduate category.
-* July 2021 - Graduated with BSc Computer Science with first class honours from [University of Southampton](https://www.ecs.soton.ac.uk/).
-* June 2021 - Joined  [Goldman Sachs](https://www.goldmansachs.com/careers/divisions/engineering/) as Summer Analyst working as intern in Site Reliability Engineering team in London office
 
 Research
 ===
-* Wojciech Rozowski, [Tobias Kappé](https://tobias.kap.pe), [Dexter Kozen](https://www.cs.cornell.edu/~kozen/), [Todd Schmid](https://toddtoddtodd.net) and [Alexandra Silva](https://alexandrasilva.org/#/main.html), "Probabilistic Guarded KAT Modulo Bisimilarity: Completeness and Complexity" - [Preprint forthcoming] (Accepted to ICALP 2023)
+* Wojciech Rozowski, [Tobias Kappé](https://tobias.kap.pe), [Dexter Kozen](https://www.cs.cornell.edu/~kozen/), [Todd Schmid](https://toddtoddtodd.net) and [Alexandra Silva](https://alexandrasilva.org/#/main.html), "Probabilistic Guarded KAT Modulo Bisimilarity: Completeness and Complexity" - [[arxiv preprint]](https://arxiv.org/abs/2305.01755) (Accepted to ICALP 2023)
 * [Todd Schmid](https://fauxefox.github.io/toddwayneschmid/index.html), Wojciech Rozowski, [Alexandra Silva](https://alexandrasilva.org/#/main.html) and [Jurriaan Rot](http://jurriaan.creativecode.org/), "Processes Parametrised by an Algebraic Theory" - [[arxiv preprint]](https://arxiv.org/abs/2202.06901) (Accepted to ICALP 2022)
 * Wojciech Rozowski, "Formally verified derivation of an executable and terminating CEK machine from call-by-value λp̂-calculus" - [[Extended abstract, SRC, ICFP]](./files/icfp21src-paper1.pdf), [[BSc thesis, University of Southampton]](./files/report.pdf)
 
