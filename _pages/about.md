@@ -30,6 +30,7 @@ Research
 
 Talks
 ===
+* [ICALP'23](https://icalp2023.cs.upb.de) - Paderborn - July 2023 - [slides](./files/ICALP23.pdf)
 * [Adjoint School](https://adjointschool.com/2023.html) Seminar (joint talk with Johanna Maria Kirss and Matina Najafi)- Online - April 2023 - [slides](./files/adjoint.pdf)
 * Cornell [Programming Languages Discussion Group](https://pl.cs.cornell.edu/pldg/2023sp/) - Ithaca - February 2023
 * The Workshop on Verification of Probabilistic Programs - Haifa - August 2022 - [slides](./files/veriprop.pdf)
