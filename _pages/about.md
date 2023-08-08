@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student in [Programming Principles, Logic and Verification Group](http://pplv.cs.ucl.ac.uk/welcome/) at [University College London](https://www.ucl.ac.uk/) supervised by [Alexandra Silva](https://alexandrasilva.org/#/main.html) and [Samson Abramsky](https://www.cs.ox.ac.uk/people/samson.abramsky/). <b>Until November, I am on a study leave while working as an Applied Science Intern in the [Automated Reasoning Group](https://aws.amazon.com/security/provable-security/) of [Amazon Web Services](https://aws.amazon.com/).</b>
+I am a PhD student in [Programming Principles, Logic and Verification Group](http://pplv.cs.ucl.ac.uk/welcome/) at [University College London](https://www.ucl.ac.uk/) supervised by [Alexandra Silva](https://alexandrasilva.org/#/main.html) and [Samson Abramsky](https://www.cs.ox.ac.uk/people/samson.abramsky/). <b>Until November, I am on a study leave working as an Applied Science Intern in the [Automated Reasoning Group](https://aws.amazon.com/security/provable-security/) of [Amazon Web Services](https://aws.amazon.com/).</b>
 
 My research interests are probabilistic variants of Kleene algebra and their completeness theorems, however more generally I am interested in coalgebraic semantics of probabilistic and quantitative systems.
 
