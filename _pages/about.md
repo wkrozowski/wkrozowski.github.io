@@ -18,6 +18,7 @@ In my free time, you can usually spot me hiking or horse riding through Polish b
 
 News
 ====
+* August 2023 - Started my internship at [Automated Reasoning Group](https://aws.amazon.com/security/provable-security/) of [Amazon Web Services](https://aws.amazon.com/) in Seattle.
 * April 2023 - My paper "Probabilistic Guarded KAT Modulo Bisimilarity: Completeness and Complexity" (joint work with [Tobias Kappé](https://tobias.kap.pe), [Dexter Kozen](https://www.cs.cornell.edu/~kozen/), [Todd Schmid](https://toddtoddtodd.net) and [Alexandra Silva](https://alexandrasilva.org/#/main.html)) was accepted to ICALP!
 * February 2023 - Got accepted for [Adjoint School 2023](https://adjointschool.com/2023.html) to a "Behavioural Metrics, Quantitative Logics and Coalgebras" project!
 * January 2023 - Visiting [Cornell University](https://www.cs.cornell.edu/).
