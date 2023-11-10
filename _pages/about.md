@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student in [Programming Principles, Logic and Verification Group](http://pplv.cs.ucl.ac.uk/welcome/) at [University College London](https://www.ucl.ac.uk/) supervised by [Alexandra Silva](https://alexandrasilva.org/#/main.html) and [Samson Abramsky](https://www.cs.ox.ac.uk/people/samson.abramsky/). <b>Until November, I am on a study leave working as an Applied Science Intern in the [Automated Reasoning Group](https://aws.amazon.com/security/provable-security/) of [Amazon Web Services](https://aws.amazon.com/).</b>
+I am a PhD student in [Programming Principles, Logic and Verification Group](http://pplv.cs.ucl.ac.uk/welcome/) at [University College London](https://www.ucl.ac.uk/) supervised by [Alexandra Silva](https://alexandrasilva.org/#/main.html) and [Samson Abramsky](https://www.cs.ox.ac.uk/people/samson.abramsky/).
 
 My research interests are probabilistic variants of Kleene algebra and their completeness theorems, however more generally I am interested in coalgebraic semantics of probabilistic and quantitative systems.
 
-Before that I received a BSc in Computer Science from the [University of Southampton](https://www.ecs.soton.ac.uk/), where I was supervised by [Julian Rathke](https://www.ecs.soton.ac.uk/people/jr1a06). As an intern, I worked in Software and Large Scale Systems Group in [ARM Research](https://www.arm.com/resources/research) in Cambridge, as well as in [Goldman Sachs](https://www.goldmansachs.com/careers/divisions/engineering/) in London.
+Before that I received a BSc in Computer Science from the [University of Southampton](https://www.ecs.soton.ac.uk/), where I was supervised by [Julian Rathke](https://www.ecs.soton.ac.uk/people/jr1a06). As an intern, I worked in the [Automated Reasoning Group](https://aws.amazon.com/security/provable-security/) of [Amazon Web Services](https://aws.amazon.com/) in Seattle, in Software and Large Scale Systems Group in [ARM Research](https://www.arm.com/resources/research) in Cambridge, as well as in [Goldman Sachs](https://www.goldmansachs.com/careers/divisions/engineering/) in London.
 
 In my free time, you can usually spot me hiking or horse riding through Polish bits of the Carpathian mountains.
 
