@@ -10,7 +10,7 @@ redirect_from:
 
 I am a PhD candidate in [Programming Principles, Logic and Verification Group](http://pplv.cs.ucl.ac.uk/welcome/) at [University College London](https://www.ucl.ac.uk/) supervised by [Alexandra Silva](https://alexandrasilva.org/#/main.html) and [Samson Abramsky](https://www.cs.ox.ac.uk/people/samson.abramsky/).
 
-My research interests are (co)algebraic and categorical semantics of probabilistic and quantitative systems. I am also fond of interactive theorem proving and automated verification of software.
+My research interests are centered around (co)algebraic and categorical semantics of programs exhibiting probabilistic/quantitative behaviour. I am also fond of interactive theorem proving and automated verification of software.
 
 Before that I received a BSc in Computer Science from the [University of Southampton](https://www.ecs.soton.ac.uk/), where I was supervised by [Julian Rathke](https://www.ecs.soton.ac.uk/people/jr1a06). As an intern, I worked in the [Automated Reasoning Group](https://aws.amazon.com/security/provable-security/) of [Amazon Web Services](https://aws.amazon.com/) in Seattle, in Software and Large Scale Systems Group in [ARM Research](https://www.arm.com/resources/research) in Cambridge, as well as in [Goldman Sachs](https://www.goldmansachs.com/careers/divisions/engineering/) in London.
 
