@@ -44,7 +44,7 @@ Talks
 
 Teaching
 ===
-* Assistant for [Theory of Comutation]([https://www.ucl.ac.uk/module-catalogue/modules/logic-and-database-theory/COMP0011](https://www.ucl.ac.uk/module-catalogue/modules/theory-of-computation-COMP0003)) - UCL - Semester 2 - 2023/2024
+* Assistant for [Theory of Comutation](https://www.ucl.ac.uk/module-catalogue/modules/logic-and-database-theory/COMP0011](https://www.ucl.ac.uk/module-catalogue/modules/theory-of-computation-COMP0003) - UCL - Semester 2 - 2023/2024
 * Assistant for [Mathematics and Statistics](https://www.ucl.ac.uk/module-catalogue/modules/logic-and-database-theory/COMP0011) - UCL - Semester 2 - 2023/2024
 * Assistant for [Intermediate Mathematics for Computer Science](https://www.ucl.ac.uk/module-catalogue/modules/intermediate-mathematics-for-computer-science-COMP0199) - UCL - Semester 2 - 2022/2023
 * Assistant for [Computability and Complexity Theory](https://www.ucl.ac.uk/module-catalogue/modules/computability-and-complexity-theory/COMP0017) - UCL - Semester 1 - 2022/2023
