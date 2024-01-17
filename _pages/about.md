@@ -33,9 +33,9 @@ Research
 
 Talks
 ===
-* [4th Southern and Midlands Logic Seminar](https://www.anupamdas.com/smls4/) - Birmingham - December 2023 - [slides](./not_yet)
+* [4th Southern and Midlands Logic Seminar](https://www.anupamdas.com/smls4/) - Birmingham - December 2023 - [slides](./files/PRE.pdf)
 * [ICALP'23](https://icalp2023.cs.upb.de) - Paderborn - July 2023 - [slides](./files/ICALP23.pdf)
-* Research visit at [Barbara König's](https://www.uni-due.de/theoinf/people/koenig_en.php) group - Duisburg - July 2023 - [slides](./not_yet)
+* Research visit at [Barbara König's](https://www.uni-due.de/theoinf/people/koenig_en.php) group - Duisburg - July 2023 - [slides](./files/Duisburg.pdf)
 * [Adjoint School](https://adjointschool.com/2023.html) Seminar (joint talk with Johanna Maria Kirss and Matina Najafi)- Online - April 2023 - [slides](./files/adjoint.pdf)
 * Cornell [Programming Languages Discussion Group](https://pl.cs.cornell.edu/pldg/2023sp/) - Ithaca - February 2023
 * The Workshop on Verification of Probabilistic Programs - Haifa - August 2022 - [slides](./files/veriprop.pdf)
