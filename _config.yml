@@ -9,7 +9,7 @@
 locale                   : "en-GB"
 title                    : "Wojciech Różowski"
 title_separator          : "-"
-name                     : &name "Wojciech K. Rozowski"
+name                     : &name "Wojciech Różowski"
 description              : &description "personal description"
 url                      : https://wkrozowski.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
