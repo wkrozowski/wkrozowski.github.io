@@ -26,6 +26,7 @@ News
 
 Research
 ===
+* Keri D'Angelo, Sebastian Gurke, Johanna Maria Kirss, Barbara König, Matina Najafi, Wojciech Różowski, Paul Wild, "Behavioural Metrics: Compositionality of the Kantorovich Lifting and an Application to Up-To Techniques" - [[arxiv preprint]](https://arxiv.org/abs/2404.19632)
 * Wojciech Różowski, "A Complete Quantitative Axiomatisation of Behavioural Distance of Regular Expressions" - [[arxiv preprint]](https://arxiv.org/abs/2404.13352) (Accepted to ICALP 2024)
 * Wojciech Różowski and [Alexandra Silva](https://alexandrasilva.org/#/main.html), "A Completeness Theorem for Probabilistic Regular Expressions" - [[arxiv preprint]](https://arxiv.org/abs/2310.08779) (Accepted to LICS 2024)
 * Wojciech Różowski, [Tobias Kappé](https://tobias.kap.pe), [Dexter Kozen](https://www.cs.cornell.edu/~kozen/), [Todd Schmid](https://toddtoddtodd.net) and [Alexandra Silva](https://alexandrasilva.org/#/main.html), "Probabilistic Guarded KAT Modulo Bisimilarity: Completeness and Complexity" - [[arxiv preprint]](https://arxiv.org/abs/2305.01755) (Accepted to ICALP 2023)
