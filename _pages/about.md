@@ -18,6 +18,8 @@ In my free time, you can usually spot me hiking or horse riding through Polish b
 
 News
 ====
+* June 2024 - Started an another summer intenship at at [Automated Reasoning Group](https://aws.amazon.com/security/provable-security/) of [Amazon Web Services](https://aws.amazon.com/) in Seattle.
+* May 2024 - two of my papers got accepted! One at LICS and one at ICALP.
 * January 2023 - Passed my transfer viva! Also, [Stefan Zetzsche](https://zetzsche.st) and I wrote a [blog post](https://dafny.org/blog/2024/01/12/semantics-of-regular-expressions/) about formalising bialgebraic semantics of regular expressions using [Dafny](https://dafny.org) and its fantastic support for coinductive reasoning.
 * August 2023 - Started my internship at [Automated Reasoning Group](https://aws.amazon.com/security/provable-security/) of [Amazon Web Services](https://aws.amazon.com/) in Seattle.
 * April 2023 - My paper "Probabilistic Guarded KAT Modulo Bisimilarity: Completeness and Complexity" (joint work with [Tobias Kappé](https://tobias.kap.pe), [Dexter Kozen](https://www.cs.cornell.edu/~kozen/), [Todd Schmid](https://toddtoddtodd.net) and [Alexandra Silva](https://alexandrasilva.org/#/main.html)) was accepted to ICALP!
