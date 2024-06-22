@@ -18,6 +18,7 @@ In my free time, you can usually spot me hiking or horse riding through Polish b
 
 News
 ====
+* July 2024 - "Behavioural Metrics: Compositionality of the Kantorovich Lifting and an Application to Up-To Techniques" got accepted to CONCUR 2024!
 * June 2024 - Started an another summer intenship at at [Automated Reasoning Group](https://aws.amazon.com/security/provable-security/) of [Amazon Web Services](https://aws.amazon.com/) in Seattle.
 * May 2024 - two of my papers got accepted! One at LICS and one at ICALP.
 * January 2023 - Passed my transfer viva! Also, [Stefan Zetzsche](https://zetzsche.st) and I wrote a [blog post](https://dafny.org/blog/2024/01/12/semantics-of-regular-expressions/) about formalising bialgebraic semantics of regular expressions using [Dafny](https://dafny.org) and its fantastic support for coinductive reasoning.
@@ -28,7 +29,7 @@ News
 
 Research
 ===
-* Keri D'Angelo, Sebastian Gurke, Johanna Maria Kirss, Barbara König, Matina Najafi, Wojciech Różowski, Paul Wild, "Behavioural Metrics: Compositionality of the Kantorovich Lifting and an Application to Up-To Techniques" - [[arxiv preprint]](https://arxiv.org/abs/2404.19632)
+* Keri D'Angelo, Sebastian Gurke, Johanna Maria Kirss, Barbara König, Matina Najafi, Wojciech Różowski, Paul Wild, "Behavioural Metrics: Compositionality of the Kantorovich Lifting and an Application to Up-To Techniques" - [[arxiv preprint]](https://arxiv.org/abs/2404.19632) (Accepted to CONCUR 2024)
 * Wojciech Różowski, "A Complete Quantitative Axiomatisation of Behavioural Distance of Regular Expressions" - [[arxiv preprint]](https://arxiv.org/abs/2404.13352) (Accepted to ICALP 2024)
 * Wojciech Różowski and [Alexandra Silva](https://alexandrasilva.org/#/main.html), "A Completeness Theorem for Probabilistic Regular Expressions" - [[arxiv preprint]](https://arxiv.org/abs/2310.08779) (Accepted to LICS 2024)
 * Wojciech Różowski, [Tobias Kappé](https://tobias.kap.pe), [Dexter Kozen](https://www.cs.cornell.edu/~kozen/), [Todd Schmid](https://toddtoddtodd.net) and [Alexandra Silva](https://alexandrasilva.org/#/main.html), "Probabilistic Guarded KAT Modulo Bisimilarity: Completeness and Complexity" - [[arxiv preprint]](https://arxiv.org/abs/2305.01755) (Accepted to ICALP 2023)
