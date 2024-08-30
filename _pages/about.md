@@ -18,6 +18,7 @@ In my free time, you can usually spot me hiking or horse riding through Polish b
 
 News
 ====
+* August 2024 - "Well-Behaved (Co)algebraic Semantics of Regular Expressions in Dafny" got accepted for publication at ICTAC 2024!
 * July 2024 - "Behavioural Metrics: Compositionality of the Kantorovich Lifting and an Application to Up-To Techniques" got accepted to CONCUR 2024!
 * June 2024 - Started an another summer intenship at at [Automated Reasoning Group](https://aws.amazon.com/security/provable-security/) of [Amazon Web Services](https://aws.amazon.com/) in Seattle.
 * May 2024 - two of my papers got accepted! One at LICS and one at ICALP.
