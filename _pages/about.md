@@ -30,6 +30,7 @@ News
 
 Research
 ===
+* [Stefan Zetzsche](https://zetzsche.st), Wojciech Różowski, "Well-Behaved (Co)algebraic Semantics of Regular Expressions in Dafny" - (Accepted to ICTAC 2024)
 * Keri D'Angelo, Sebastian Gurke, Johanna Maria Kirss, Barbara König, Matina Najafi, Wojciech Różowski, Paul Wild, "Behavioural Metrics: Compositionality of the Kantorovich Lifting and an Application to Up-To Techniques" - [[arxiv preprint]](https://arxiv.org/abs/2404.19632) (Accepted to CONCUR 2024)
 * Wojciech Różowski, "A Complete Quantitative Axiomatisation of Behavioural Distance of Regular Expressions" - [[arxiv preprint]](https://arxiv.org/abs/2404.13352) (Accepted to ICALP 2024)
 * Wojciech Różowski and [Alexandra Silva](https://alexandrasilva.org/#/main.html), "A Completeness Theorem for Probabilistic Regular Expressions" - [[arxiv preprint]](https://arxiv.org/abs/2310.08779) (Accepted to LICS 2024)
