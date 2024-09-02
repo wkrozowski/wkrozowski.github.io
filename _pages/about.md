@@ -14,7 +14,9 @@ My research interests are centered around (co)algebraic and categorical semantic
 
 Before that I received a BSc in Computer Science from the [University of Southampton](https://www.ecs.soton.ac.uk/), where I was supervised by [Julian Rathke](https://www.ecs.soton.ac.uk/people/jr1a06). As an intern, I worked in the [Automated Reasoning Group](https://aws.amazon.com/security/provable-security/) of [Amazon Web Services](https://aws.amazon.com/) in Seattle, in Software and Large Scale Systems Group in [ARM Research](https://www.arm.com/resources/research) in Cambridge, as well as in [Goldman Sachs](https://www.goldmansachs.com/careers/divisions/engineering/) in London.
 
-In my free time, you can usually spot me hiking or horse riding through Polish bits of the Carpathian mountains.
+In my free time, you can usually find me taking analog photos with my Zenit TTL, learning foreign languages and collecting vinyl records from all over the world.
+
+You can reach me at [(λx.x @ cs.ucl.ac.uk) W.Rozowski] or ping me at Linkedin. 
 
 News
 ====
