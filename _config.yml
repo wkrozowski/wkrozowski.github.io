@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Wojciech K. Różowski"
   avatar           : "451084999_1006629771120280_5058974592729289723_n (1)-2_processed.jpg"
-  bio              : "PhD student at UCL"
+  bio              : "PhD candidate at UCL"
   location         : "Room B.09.22<br>Department of Computer Science<br>University College London<br>66-72 Gower Street<br>London<br>WC1E 6BT<br>United Kingdom"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?hl=pl&user=5v5fPJYAAAAJ"
-  email            : "W.Rozowski@cs.ucl.ac.uk"
+  email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "WRozowski"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
