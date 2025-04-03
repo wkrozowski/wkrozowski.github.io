@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD candidate in [Programming Principles, Logic and Verification Group](http://pplv.cs.ucl.ac.uk/welcome/) at [University College London](https://www.ucl.ac.uk/) supervised by [Alexandra Silva](https://alexandrasilva.org/#/main.html) and [Samson Abramsky](https://www.cs.ox.ac.uk/people/samson.abramsky/). At the same time, I work part-time as a Research Software Engineer at [Lean FRO](https://lean-fro.org).
+I am a PhD candidate in [Programming Principles, Logic and Verification Group](http://pplv.cs.ucl.ac.uk/welcome/) at [University College London](https://www.ucl.ac.uk/) supervised by [Alexandra Silva](https://alexandrasilva.org/#/main.html). At the same time, I work part-time as a Research Software Engineer at [Lean FRO](https://lean-fro.org).
 
 My research interests are centered around (co)algebraic and categorical semantics of programs exhibiting probabilistic/quantitative behaviour. I am also fond of interactive theorem proving and automated verification of software.
 
