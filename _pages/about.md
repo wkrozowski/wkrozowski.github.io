@@ -20,6 +20,7 @@ You can reach me at [(λx.x @ cs.ucl.ac.uk) W.Rozowski] or ping me at Linkedin.
 
 News
 ====
+* June 2025 - Consider submitting an extended abstract to [BMQL2025](https://bmql25.cs.aau.dk), where I am honoured to serve as a PC member this year! 
 * August 2024 - "Well-Behaved (Co)algebraic Semantics of Regular Expressions in Dafny" got accepted for publication at ICTAC 2024!
 * July 2024 - "Behavioural Metrics: Compositionality of the Kantorovich Lifting and an Application to Up-To Techniques" got accepted to CONCUR 2024!
 * June 2024 - Started an another summer intenship at at [Automated Reasoning Group](https://aws.amazon.com/security/provable-security/) of [Amazon Web Services](https://aws.amazon.com/) in Seattle.
