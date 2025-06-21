@@ -33,14 +33,15 @@ News
 
 Research
 ===
-* [Gabriele Lobbia](https://globbia.github.io), Wojciech Różowski, [Ralph Sarkis](https://ralphs16.github.io), [Fabio Zanasi](http://www.zanasi.com/fabio/#/main.html), "Quantitative Monoidal Algebra: Axiomatising Distance with String Diagrams" - [[arxiv preprint]](https://arxiv.org/abs/2410.09229)
+* [Gabriele Lobbia](https://globbia.github.io), Wojciech Różowski, [Ralph Sarkis](https://ralphs16.github.io), [Fabio Zanasi](http://www.zanasi.com/fabio/#/main.html), "Quantitative Monoidal Algebra: Axiomatising Distance with String Diagrams" - [[arxiv preprint]](https://arxiv.org/abs/2410.09229) (Accepted to MFCS 2025)
+* [Spencer van Koevering](https://www.cs.cornell.edu/content/van-koevering-0), Wojciech Różowski, [Alexandra Silva](https://alexandrasilva.org), "Weighted GKAT: Completeness and Complexity" [[arxiv preprint]](https://arxiv.org/abs/2504.20385) (Accepted to ICALP 2025)
 * [Stefan Zetzsche](https://zetzsche.st), Wojciech Różowski, "Well-Behaved (Co)algebraic Semantics of Regular Expressions in Dafny" - [[full paper]](https://www.amazon.science/publications/well-behaved-coalgebraic-semantics-of-regular-expressions-in-dafny) (Accepted to ICTAC 2024)
 * Keri D'Angelo, Sebastian Gurke, Johanna Maria Kirss, [Barbara König](https://www.uni-due.de/theoinf/people/koenig.php), Matina Najafi, Wojciech Różowski, Paul Wild, "Behavioural Metrics: Compositionality of the Kantorovich Lifting and an Application to Up-To Techniques" - [[arxiv preprint]](https://arxiv.org/abs/2404.19632) (Accepted to CONCUR 2024)
 * Wojciech Różowski, "A Complete Quantitative Axiomatisation of Behavioural Distance of Regular Expressions" - [[arxiv preprint]](https://arxiv.org/abs/2404.13352) (Accepted to ICALP 2024)
 * Wojciech Różowski and [Alexandra Silva](https://alexandrasilva.org/#/main.html), "A Completeness Theorem for Probabilistic Regular Expressions" - [[arxiv preprint]](https://arxiv.org/abs/2310.08779) (Accepted to LICS 2024)
 * Wojciech Różowski, [Tobias Kappé](https://tobias.kap.pe), [Dexter Kozen](https://www.cs.cornell.edu/~kozen/), [Todd Schmid](https://toddtoddtodd.net) and [Alexandra Silva](https://alexandrasilva.org/#/main.html), "Probabilistic Guarded KAT Modulo Bisimilarity: Completeness and Complexity" - [[arxiv preprint]](https://arxiv.org/abs/2305.01755) (Accepted to ICALP 2023)
 * [Todd Schmid](https://fauxefox.github.io/toddwayneschmid/index.html), Wojciech Różowski, [Alexandra Silva](https://alexandrasilva.org/#/main.html) and [Jurriaan Rot](http://jurriaan.creativecode.org/), "Processes Parametrised by an Algebraic Theory" - [[arxiv preprint]](https://arxiv.org/abs/2202.06901) (Accepted to ICALP 2022)
-* Wojciech Różowski, "Formally verified derivation of an executable and terminating CEK machine from call-by-value λp̂-calculus" - [[Extended abstract, SRC, ICFP]](./files/icfp21src-paper1.pdf), [[BSc thesis, University of Southampton]](./files/report.pdf)
+* Wojciech Różowski, "Formally verified derivation of an executable and terminating CEK machine from call-by-value λp̂-calculus" - [[Extended abstract]](./files/icfp21src-paper1.pdf) (Accepted to ICALP 2021 Student Research Competition)
 
 Talks
 ===
