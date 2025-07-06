@@ -20,6 +20,7 @@ You can reach me at [(λx.x @ cs.ucl.ac.uk) W.Rozowski] or ping me at Linkedin.
 
 News
 ====
+* July 2025 - Passed my PhD viva with minor corrections! My examiners were [Filippo Bonchi](https://ncatlab.org/nlab/show/Filippo+Bonchi) and [Clemens Kupke](https://www.strath.ac.uk/staff/kupkeclemensdr/). 
 * June 2025 - Consider submitting an extended abstract to [BMQL2025](https://bmql25.cs.aau.dk), where I am honoured to serve as a PC member this year! 
 * August 2024 - "Well-Behaved (Co)algebraic Semantics of Regular Expressions in Dafny" got accepted for publication at ICTAC 2024!
 * July 2024 - "Behavioural Metrics: Compositionality of the Kantorovich Lifting and an Application to Up-To Techniques" got accepted to CONCUR 2024!
