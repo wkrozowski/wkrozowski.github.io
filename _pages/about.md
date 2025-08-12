@@ -7,23 +7,23 @@ redirect_from:
   - /about/
   - /about.html
 ---
+I am working on the Lean theorem prover, as a Research Software Engineer at [Lean FRO](https://lean-fro.org). I am broadly interested in automated reasoning, formal semantics and verification, with the focus on coinductive methods in computer science.
 
-I am a PhD candidate in [Programming Principles, Logic and Verification Group](http://pplv.cs.ucl.ac.uk/welcome/) at [University College London](https://www.ucl.ac.uk/) supervised by [Alexandra Silva](https://alexandrasilva.org/#/main.html). At the same time, I work part-time as a Research Software Engineer at [Lean FRO](https://lean-fro.org).
+Prior to joining Lean FRO, I obtained my PhD from the University College London under the supervision of [Alexandra Silva](https://alexandrasilva.org/#/main.html), where I was a part of the [Programming Principles, Logic and Verification Group](http://pplv.cs.ucl.ac.uk/welcome/) group in the Computer Science Department. Throughout my PhD, I have interned twice at [Automated Reasoning Group](https://aws.amazon.com/security/provable-security/) of [Amazon Web Services](https://aws.amazon.com/) in Seattle.
 
-My research interests are centered around (co)algebraic and categorical semantics of programs exhibiting probabilistic/quantitative behaviour. I am also fond of interactive theorem proving and automated verification of software.
+Before that I received a BSc in Computer Science from the [University of Southampton](https://www.ecs.soton.ac.uk/), where I was supervised by [Julian Rathke](https://www.ecs.soton.ac.uk/people/jr1a06). As an intern, in Software and Large Scale Systems Group in [ARM Research](https://www.arm.com/resources/research) in Cambridge, as well as in [Goldman Sachs](https://www.goldmansachs.com/careers/divisions/engineering/) in London.
 
-Before that I received a BSc in Computer Science from the [University of Southampton](https://www.ecs.soton.ac.uk/), where I was supervised by [Julian Rathke](https://www.ecs.soton.ac.uk/people/jr1a06). As an intern, I worked in the [Automated Reasoning Group](https://aws.amazon.com/security/provable-security/) of [Amazon Web Services](https://aws.amazon.com/) in Seattle, in Software and Large Scale Systems Group in [ARM Research](https://www.arm.com/resources/research) in Cambridge, as well as in [Goldman Sachs](https://www.goldmansachs.com/careers/divisions/engineering/) in London.
+In my free time, you can usually find me taking analog photos, learning foreign languages and collecting vinyl records from all over the world.
 
-In my free time, you can usually find me taking analog photos with my Zenit TTL, learning foreign languages and collecting vinyl records from all over the world.
-
-You can reach me at [(λx.x @ cs.ucl.ac.uk) W.Rozowski] or ping me at Linkedin. 
+You can reach me at `(fun name => name ++ "@lean-fro.org") "wojciech"` or ping me at Linkedin. 
 
 News
 ====
+* August 2025 - My thesis corrections have been approved, and I have officially been awarded my doctorate!
 * July 2025 - Passed my PhD viva with minor corrections! My examiners were [Filippo Bonchi](https://ncatlab.org/nlab/show/Filippo+Bonchi) and [Clemens Kupke](https://www.strath.ac.uk/staff/kupkeclemensdr/). 
-* June 2025 - Consider submitting an extended abstract to [BMQL2025](https://bmql25.cs.aau.dk), where I am honoured to serve as a PC member this year! 
-* August 2024 - "Well-Behaved (Co)algebraic Semantics of Regular Expressions in Dafny" got accepted for publication at ICTAC 2024!
-* July 2024 - "Behavioural Metrics: Compositionality of the Kantorovich Lifting and an Application to Up-To Techniques" got accepted to CONCUR 2024!
+* June 2025 - Consider submitting an extended abstract to [BMQL2025](https://bmql25.cs.aau.dk), where I am honoured to serve as a PC member this year. 
+* August 2024 - "Well-Behaved (Co)algebraic Semantics of Regular Expressions in Dafny" got accepted for publication at ICTAC 2024.
+* July 2024 - "Behavioural Metrics: Compositionality of the Kantorovich Lifting and an Application to Up-To Techniques" got accepted to CONCUR 2024.
 * June 2024 - Started an another summer intenship at at [Automated Reasoning Group](https://aws.amazon.com/security/provable-security/) of [Amazon Web Services](https://aws.amazon.com/) in Seattle.
 * May 2024 - two of my papers got accepted! One at LICS and one at ICALP.
 * January 2023 - Passed my transfer viva! Also, [Stefan Zetzsche](https://zetzsche.st) and I wrote a [blog post](https://dafny.org/blog/2024/01/12/semantics-of-regular-expressions/) about formalising bialgebraic semantics of regular expressions using [Dafny](https://dafny.org) and its fantastic support for coinductive reasoning.
