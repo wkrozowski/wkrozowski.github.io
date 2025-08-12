@@ -7,13 +7,13 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am working on the Lean theorem prover, as a Research Software Engineer at [Lean FRO](https://lean-fro.org). I am broadly interested in automated reasoning, formal semantics and verification, with the focus on coinductive methods in computer science.
+I am a Research Software Engineer at [Lean FRO](https://lean-fro.org), working on the Lean theorem prover. My research interests span automated reasoning, formal semantics, and verification, with a particular focus on coinductive methods in computer science.
 
-Prior to joining Lean FRO, I obtained my PhD from the University College London under the supervision of [Alexandra Silva](https://alexandrasilva.org/#/main.html), where I was a part of the [Programming Principles, Logic and Verification Group](http://pplv.cs.ucl.ac.uk/welcome/) group in the Computer Science Department. Throughout my PhD, I have interned twice at [Automated Reasoning Group](https://aws.amazon.com/security/provable-security/) of [Amazon Web Services](https://aws.amazon.com/) in Seattle.
+I earned my PhD in Computer Science from University College London, under the supervision of [Alexandra Silva](https://alexandrasilva.org/#/main.html), as part of the [Programming Principles, Logic and Verification Group](http://pplv.cs.ucl.ac.uk/welcome/). During my doctoral studies, I completed two research internships with the [Automated Reasoning Group](https://aws.amazon.com/security/provable-security/) of Amazon Web Services in Seattle.
 
-Before that I received a BSc in Computer Science from the [University of Southampton](https://www.ecs.soton.ac.uk/), where I was supervised by [Julian Rathke](https://www.ecs.soton.ac.uk/people/jr1a06). As an intern, in Software and Large Scale Systems Group in [ARM Research](https://www.arm.com/resources/research) in Cambridge, as well as in [Goldman Sachs](https://www.goldmansachs.com/careers/divisions/engineering/) in London.
+I hold a BSc in Computer Science from the University of Southampton, where I was supervised by [Julian Rathke](https://www.ecs.soton.ac.uk/people/jr1a06). I have also undertaken internships with the Software and Large Scale Systems Group at [ARM Research](https://www.arm.com/resources/research) in Cambridge, and at [Goldman Sachs](https://www.goldmansachs.com/careers/divisions/engineering/) in London.
 
-In my free time, you can usually find me taking analog photos, learning foreign languages and collecting vinyl records from all over the world.
+Outside of work, I enjoy shooting analog photography, learning foreign languages, and collecting vinyl records from around the world.
 
 You can reach me at `(fun name => name ++ "@lean-fro.org") "wojciech"` or ping me at Linkedin. 
 
