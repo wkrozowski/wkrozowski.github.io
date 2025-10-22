@@ -19,6 +19,7 @@ You can reach me at `(fun name => name ++ "@lean-fro.org") "wojciech"` or ping m
 
 News
 ====
+* October 2025 - My thesis is available [online](https://discovery.ucl.ac.uk/id/eprint/10212228/).
 * August 2025 - My thesis corrections have been approved, and I have officially been awarded my doctorate!
 * July 2025 - Passed my PhD viva with minor corrections! My examiners were [Filippo Bonchi](https://ncatlab.org/nlab/show/Filippo+Bonchi) and [Clemens Kupke](https://www.strath.ac.uk/staff/kupkeclemensdr/). 
 * June 2025 - Consider submitting an extended abstract to [BMQL2025](https://bmql25.cs.aau.dk), where I am honoured to serve as a PC member this year. 
@@ -34,6 +35,7 @@ News
 
 Research
 ===
+* Wojciech Różowski, "Completeness Theorems for Behavioural Distances and Equivalences", Doctoral thesis (Ph.D), UCL (University College London) [[UCL theses repository]](https://discovery.ucl.ac.uk/id/eprint/10212228/)
 * [Gabriele Lobbia](https://globbia.github.io), Wojciech Różowski, [Ralph Sarkis](https://ralphs16.github.io), [Fabio Zanasi](http://www.zanasi.com/fabio/#/main.html), "Quantitative Monoidal Algebra: Axiomatising Distance with String Diagrams" - [[arxiv preprint]](https://arxiv.org/abs/2410.09229) (Accepted to MFCS 2025)
 * [Spencer van Koevering](https://www.cs.cornell.edu/content/van-koevering-0), Wojciech Różowski, [Alexandra Silva](https://alexandrasilva.org), "Weighted GKAT: Completeness and Complexity" [[arxiv preprint]](https://arxiv.org/abs/2504.20385) (Accepted to ICALP 2025)
 * [Stefan Zetzsche](https://zetzsche.st), Wojciech Różowski, "Well-Behaved (Co)algebraic Semantics of Regular Expressions in Dafny" - [[full paper]](https://www.amazon.science/publications/well-behaved-coalgebraic-semantics-of-regular-expressions-in-dafny) (Accepted to ICTAC 2024)
