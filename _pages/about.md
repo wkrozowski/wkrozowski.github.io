@@ -7,31 +7,15 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a Research Software Engineer at [Lean FRO](https://lean-fro.org), working on the Lean theorem prover. My research interests span automated reasoning, formal semantics, and verification, with a particular focus on coinductive methods in computer science.
+I am a Research Software Engineer at [Lean FRO](https://lean-fro.org), working on the Lean theorem prover. My research interests span automated reasoning, formal semantics, and verification, with a particular focus on coinductive methods in computer science. Alongside my industrial role, I maintain active ties with academia as an Academic Visitor in the Department of Mathematics at Imperial College London and an [Industrial Academic Visitor](https://www.cst.cam.ac.uk/people/wkr21) in the Department of Computer Science and Technology at the University of Cambridge.
 
 I earned my PhD in Computer Science from University College London, under the supervision of [Alexandra Silva](https://alexandrasilva.org/#/main.html), as part of the [Programming Principles, Logic and Verification Group](http://pplv.cs.ucl.ac.uk/welcome/). During my doctoral studies, I completed two research internships with the [Automated Reasoning Group](https://aws.amazon.com/security/provable-security/) of Amazon Web Services in Seattle.
 
 I hold a BSc in Computer Science from the University of Southampton, where I was supervised by [Julian Rathke](https://www.ecs.soton.ac.uk/people/jr1a06). I have also undertaken internships with the Software and Large Scale Systems Group at [ARM Research](https://www.arm.com/resources/research) in Cambridge, and at [Goldman Sachs](https://www.goldmansachs.com/careers/divisions/engineering/) in London.
 
-Outside of work, I enjoy shooting analog photography, learning foreign languages, and collecting vinyl records from around the world.
+Outside of work, I enjoy shooting analog photography, drinking coffee, and collecting vinyl records from around the world.
 
-You can reach me at `(fun name => name ++ "@lean-fro.org") "wojciech"` or ping me at Linkedin. 
-
-News
-====
-* October 2025 - My thesis is available [online](https://discovery.ucl.ac.uk/id/eprint/10212228/).
-* August 2025 - My thesis corrections have been approved, and I have officially been awarded my doctorate!
-* July 2025 - Passed my PhD viva with minor corrections! My examiners were [Filippo Bonchi](https://ncatlab.org/nlab/show/Filippo+Bonchi) and [Clemens Kupke](https://www.strath.ac.uk/staff/kupkeclemensdr/). 
-* June 2025 - Consider submitting an extended abstract to [BMQL2025](https://bmql25.cs.aau.dk), where I am honoured to serve as a PC member this year. 
-* August 2024 - "Well-Behaved (Co)algebraic Semantics of Regular Expressions in Dafny" got accepted for publication at ICTAC 2024.
-* July 2024 - "Behavioural Metrics: Compositionality of the Kantorovich Lifting and an Application to Up-To Techniques" got accepted to CONCUR 2024.
-* June 2024 - Started an another summer intenship at at [Automated Reasoning Group](https://aws.amazon.com/security/provable-security/) of [Amazon Web Services](https://aws.amazon.com/) in Seattle.
-* May 2024 - two of my papers got accepted! One at LICS and one at ICALP.
-* January 2023 - Passed my transfer viva! Also, [Stefan Zetzsche](https://zetzsche.st) and I wrote a [blog post](https://dafny.org/blog/2024/01/12/semantics-of-regular-expressions/) about formalising bialgebraic semantics of regular expressions using [Dafny](https://dafny.org) and its fantastic support for coinductive reasoning.
-* August 2023 - Started my internship at [Automated Reasoning Group](https://aws.amazon.com/security/provable-security/) of [Amazon Web Services](https://aws.amazon.com/) in Seattle.
-* April 2023 - My paper "Probabilistic Guarded KAT Modulo Bisimilarity: Completeness and Complexity" (joint work with [Tobias Kappé](https://tobias.kap.pe), [Dexter Kozen](https://www.cs.cornell.edu/~kozen/), [Todd Schmid](https://toddtoddtodd.net) and [Alexandra Silva](https://alexandrasilva.org/#/main.html)) was accepted to ICALP!
-* February 2023 - Got accepted for [Adjoint School 2023](https://adjointschool.com/2023.html) to a "Behavioural Metrics, Quantitative Logics and Coalgebras" project!
-* January 2023 - Visiting [Cornell University](https://www.cs.cornell.edu/).
+You can reach me at `#eval (fun name => name ++ "@lean-fro.org") "wojciech"` or ping me at Linkedin. 
 
 Research
 ===
@@ -48,6 +32,8 @@ Research
 
 Talks
 ===
+* [Lean Together 2026](https://leanprover-community.github.io/lt2026/) - Online - January 2026 - [video](https://www.youtube.com/watch?v=vEt07N_v-Yo)
+* [Dafny 2025 @ POPL](https://popl25.sigplan.org/home/dafny-2025) - Denver - January 2025 - [video 1](https://www.youtube.com/watch?v=NR5as9MSyc0), [video 2](https://www.youtube.com/watch?v=_ZdvSszj4OM)
 * [4th Southern and Midlands Logic Seminar](https://www.anupamdas.com/smls4/) - Birmingham - December 2023 - [slides](./files/PRE.pdf)
 * [ICALP'23](https://icalp2023.cs.upb.de) - Paderborn - July 2023 - [slides](./files/ICALP23.pdf)
 * Research visit at [Barbara König's](https://www.uni-due.de/theoinf/people/koenig_en.php) group - Duisburg - July 2023 - [slides](./files/Duisburg.pdf)
