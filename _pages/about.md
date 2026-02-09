@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a Research Software Engineer at [Lean FRO](https://lean-fro.org), working on the Lean theorem prover. My research interests span automated reasoning, formal semantics, and verification, with a particular focus on coinductive methods in computer science. Alongside my industrial role, I maintain active ties with academia as an Academic Visitor in the Department of Mathematics at Imperial College London and an [Industrial Academic Visitor](https://www.cst.cam.ac.uk/people/wkr21) in the Department of Computer Science and Technology at the University of Cambridge.
+I am a Research Software Engineer at [Lean FRO](https://lean-fro.org), working on the Lean theorem prover. My research interests span automated reasoning, formal semantics, and verification, with a particular focus on coinductive methods in computer science. Alongside my industrial role, I maintain active ties with academia as an [Academic Visitor](https://profiles.imperial.ac.uk/wojciech.rozowski26) in the Department of Mathematics at Imperial College London and an [Industrial Academic Visitor](https://www.cst.cam.ac.uk/people/wkr21) in the Department of Computer Science and Technology at the University of Cambridge.
 
 I earned my PhD in Computer Science from University College London, under the supervision of [Alexandra Silva](https://alexandrasilva.org/#/main.html), as part of the [Programming Principles, Logic and Verification Group](http://pplv.cs.ucl.ac.uk/welcome/). During my doctoral studies, I completed two research internships with the [Automated Reasoning Group](https://aws.amazon.com/security/provable-security/) of Amazon Web Services in Seattle.
 
