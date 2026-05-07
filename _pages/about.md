@@ -7,11 +7,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a Research Software Engineer at [Lean FRO](https://lean-fro.org), working on the Lean theorem prover. My research interests span automated reasoning, formal semantics, and verification, with a particular focus on coinductive methods in computer science. Alongside my industrial role, I maintain active ties with academia as an [Academic Visitor](https://profiles.imperial.ac.uk/wojciech.rozowski26) in the Department of Mathematics at Imperial College London and [Industrial Departmental Visitor](https://www.cst.cam.ac.uk/people/wkr21) in the Department of Computer Science and Technology at the University of Cambridge.
+I am a Research Software Engineer at [Lean FRO](https://lean-fro.org), where I contribute to the development of the Lean theorem prover. My research interests span automated reasoning, programming language semantics, and formal verification. I maintain active ties with academia as an [Academic Visitor](https://profiles.imperial.ac.uk/wojciech.rozowski26) in the Department of Mathematics at Imperial College London and [Industrial Departmental Visitor](https://www.cst.cam.ac.uk/people/wkr21) in the Department of Computer Science and Technology at University of Cambridge.
 
 I earned my PhD in Computer Science from University College London, under the supervision of [Alexandra Silva](https://alexandrasilva.org/#/main.html), as part of the [Programming Principles, Logic and Verification Group](http://pplv.cs.ucl.ac.uk/welcome/). During my doctoral studies, I completed two research internships with the [Automated Reasoning Group](https://aws.amazon.com/security/provable-security/) of Amazon Web Services in Seattle.
 
-I hold a BSc in Computer Science from the University of Southampton, where I was supervised by [Julian Rathke](https://www.ecs.soton.ac.uk/people/jr1a06). I have also undertaken internships with the Software and Large Scale Systems Group at [ARM Research](https://www.arm.com/resources/research) in Cambridge, and at [Goldman Sachs](https://www.goldmansachs.com/careers/divisions/engineering/) in London.
+I hold a BSc in Computer Science from the University of Southampton, where I was supervised by [Julian Rathke](https://www.ecs.soton.ac.uk/people/jr1a06). During that time, I undertook internships with the Software and Large Scale Systems Group at [ARM](https://www.arm.com/resources/research) in Cambridge, and at [Goldman Sachs](https://www.goldmansachs.com/careers/divisions/engineering/) in London.
 
 Outside of work, I enjoy shooting analog photography, drinking coffee, and collecting vinyl records from around the world.
 
@@ -19,7 +19,7 @@ You can reach me at `#eval (fun name => name ++ "@lean-fro.org") "wojciech"` or 
 
 Research
 ===
-* Wojciech Różowski, [Robin Piedeleu](https://piedeleu.com), [Alexandra Silva](https://alexandrasilva.org) and [Fabio Zanasi](https://fzanasi.github.io/personal/#/main.html), "A Diagrammatic Axiomatisation of Behavioural Distance of Nondeterministic Processes" - (Accepted to ICALP 2026)
+* Wojciech Różowski, [Robin Piedeleu](https://piedeleu.com), [Alexandra Silva](https://alexandrasilva.org) and [Fabio Zanasi](https://fzanasi.github.io/personal/#/main.html), "A Diagrammatic Axiomatisation of Behavioural Distance of Nondeterministic Processes" - [[arxiv preprint]](http://arxiv.org/abs/2604.27268) (Accepted to ICALP 2026)
 * Wojciech Różowski, "Completeness Theorems for Behavioural Distances and Equivalences", Doctoral thesis (Ph.D), UCL (University College London) [[UCL theses repository]](https://discovery.ucl.ac.uk/id/eprint/10212228/)
 * [Gabriele Lobbia](https://globbia.github.io), Wojciech Różowski, [Ralph Sarkis](https://ralphs16.github.io), [Fabio Zanasi](http://www.zanasi.com/fabio/#/main.html), "Quantitative Monoidal Algebra: Axiomatising Distance with String Diagrams" - [[arxiv preprint]](https://arxiv.org/abs/2410.09229) (Accepted to MFCS 2025)
 * [Spencer van Koevering](https://www.cs.cornell.edu/content/van-koevering-0), Wojciech Różowski, [Alexandra Silva](https://alexandrasilva.org), "Weighted GKAT: Completeness and Complexity" [[arxiv preprint]](https://arxiv.org/abs/2504.20385) (Accepted to ICALP 2025)
