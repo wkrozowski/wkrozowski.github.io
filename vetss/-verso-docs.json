@@ -1,0 +1,11 @@
+{"6": "<code class=\"docstring\">Conditional statement </code>",
+ "5":
+ "<code data-rich-format=\"{&quot;annotations&quot;:{&quot;4&quot;:{&quot;binding&quot;:&quot;const-SlideExamples.min&quot;,&quot;cssClass&quot;:&quot;const&quot;},&quot;5&quot;:{&quot;binding&quot;:&quot;const-Imp.Stmt&quot;,&quot;cssClass&quot;:&quot;const&quot;}},&quot;fmt&quot;:[6,[6,[3,2,[4,[6,[3,2,[7,4,&quot;SlideExamples.min&quot;]]],[4,&quot; :&quot;,[4,1,[6,[3,2,[7,5,&quot;Stmt&quot;]]]]]]]]]}\">SlideExamples.min : Stmt</code>",
+ "4":
+ "<code data-rich-format=\"{&quot;annotations&quot;:{&quot;4&quot;:{&quot;binding&quot;:&quot;const-SlideExamples.swap&quot;,&quot;cssClass&quot;:&quot;const&quot;},&quot;5&quot;:{&quot;binding&quot;:&quot;const-Imp.Stmt&quot;,&quot;cssClass&quot;:&quot;const&quot;}},&quot;fmt&quot;:[6,[6,[3,2,[4,[6,[3,2,[7,4,&quot;SlideExamples.swap&quot;]]],[4,&quot; :&quot;,[4,1,[6,[3,2,[7,5,&quot;Stmt&quot;]]]]]]]]]}\">SlideExamples.swap : Stmt</code>",
+ "3": "<code class=\"docstring\">Loop </code>",
+ "2": "<code class=\"docstring\">Include an Imp statement in Lean code </code>",
+ "1":
+ "<code data-rich-format=\"{&quot;annotations&quot;:{&quot;4&quot;:{&quot;binding&quot;:&quot;const-Imp.Stmt&quot;,&quot;cssClass&quot;:&quot;const&quot;},&quot;5&quot;:{&quot;binding&quot;:&quot;sort-7243200735919010059&quot;,&quot;cssClass&quot;:&quot;sort&quot;}},&quot;fmt&quot;:[6,[6,[3,2,[4,[6,[3,2,[7,4,&quot;Imp.Stmt&quot;]]],[4,&quot; :&quot;,[4,1,[6,[3,2,[7,5,&quot;Type&quot;]]]]]]]]]}\">Imp.Stmt : Type</code><span class=\"sep\"></span><code class=\"docstring\">Statements in Imp </code>",
+ "0":
+ "<code data-rich-format=\"{&quot;annotations&quot;:{&quot;4&quot;:{&quot;binding&quot;:&quot;const-SlideExamples.fact&quot;,&quot;cssClass&quot;:&quot;const&quot;},&quot;5&quot;:{&quot;binding&quot;:&quot;const-Imp.Stmt&quot;,&quot;cssClass&quot;:&quot;const&quot;}},&quot;fmt&quot;:[6,[6,[3,2,[4,[6,[3,2,[7,4,&quot;SlideExamples.fact&quot;]]],[4,&quot; :&quot;,[4,1,[6,[3,2,[7,5,&quot;Stmt&quot;]]]]]]]]]}\">SlideExamples.fact : Stmt</code>"}
