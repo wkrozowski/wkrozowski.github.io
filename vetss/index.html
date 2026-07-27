@@ -1,0 +1,299 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lean Tutorial</title><link rel="stylesheet" href="lib/reveal.js/dist/reset.css">
+    <link rel="stylesheet" href="lib/reveal.js/dist/reveal.css">
+    <link rel="stylesheet" href="lib/reveal.js/dist/theme/white.css">
+    <link rel="stylesheet" href="lib/github.css">
+    <link rel="stylesheet" href="lib/highlighting.css">
+    <link rel="stylesheet" href="lib/tippy-border.css">
+    <link rel="stylesheet" href="lib/slides-highlight.css">
+    <link rel="stylesheet" href="lib/panel.css">
+    <link rel="stylesheet" href="lib/lightbox.css">
+    <link rel="stylesheet" href="lib/diagram.css">
+    <link rel="stylesheet" href="lib/illuminate-anim.css">
+    <link rel="stylesheet" href="lib/table.css">
+    <link rel="stylesheet" href="lib/katex/dist/katex.min.css">
+    <link rel="stylesheet" href="custom.css">
+    </head>
+  <body>
+    <div class="reveal">
+      <div class="slides">
+        <section class="title-slide">
+          <div class="top-area"><img class="logo" src="lean-logo-large.png" alt="Lean Logo"></div>
+          <div class="blue-band"><h1>Lean Tutorial</h1>
+          <div class="meta"><strong>Wojciech Różowski</strong><br>Lean FRO</div>
+          <div class="date">VeTSS Summer School, Glasgow | Aug 4, 2026</div>
+          </div></section>
+        <section>
+          <div class="slide-header"><img src="lean-logo.png" alt="Lean"></div>
+          <h2>
+            Lean Beginnings</h2>
+          <div class="r-vstack">
+            <p>
+              <img src="images/smt-strategy.png" alt="Strategy Challenge in SMT Solving — de Moura and Passmore" style="width: 50%;" class="explicit-size"></p>
+            <p>
+              <img src="images/smt-abstract.png" alt="Excerpt from the abstract highlighting user control of strategies" style="width: 50%;" class="explicit-size"></p>
+            </div>
+          <aside class="notes"><p>
+              Lean grew out of Leo de Moura's earlier work on SMT solvers, in
+particular the "Strategy Challenge in SMT Solving" paper — the
+central idea being <strong>white-box</strong> control over proof search.</p>
+            </aside></section>
+        <section>
+          <div class="slide-header"><img src="lean-logo.png" alt="Lean"></div>
+          <h2>
+            Lean</h2>
+          <p>
+            Created as a platform for <strong>white-box automation</strong> by Leonardo de Moura</p>
+          <p>
+            An interactive theorem prover and a functional programming language</p>
+          <p>
+            Features a <strong>lean</strong> kernel: a minimised type theory compared to similar systems</p>
+          <p>
+            <img src="images/odd-proof.png" alt="A short Lean proof: the square of an odd natural number is odd" style="width: 80%;" class="explicit-size"></p>
+          <aside class="notes"><p>
+              Three defining traits: automation, dual nature (prover + programming
+language), and a small trusted kernel.</p>
+            </aside></section>
+        <section>
+          <div class="slide-header"><img src="lean-logo.png" alt="Lean"></div>
+          <h2>
+            The Lean System</h2>
+          <p>
+            <img src="images/lean-system.png" alt="Diagram of the Lean ecosystem: Lean core, Lake, Reservoir, VS Code plugin, Std library, Verso, Reference Manual, Website, Loogle" style="width: 78%;" class="explicit-size"></p>
+          <aside class="notes"><p>
+              The Lean <strong>system</strong> is more than just the compiler: Lake is the build
+tool, Reservoir the package registry, Verso powers the reference
+manual and website, and Loogle helps discover lemmas.</p>
+            </aside></section>
+        <section>
+          <div class="slide-header"><img src="lean-logo.png" alt="Lean"></div>
+          <h2>
+            The Liquid Tensor Experiment — 2021</h2>
+          <p>
+            Peter Scholze (Fields Medal 2018) was unsure about one of his latest results in Analytic Geometry.</p>
+          <p>
+            <strong>The Lean community not only verified the proof within months but also simplified it. They did this without fully understanding the entire proof.</strong></p>
+          <p>
+            Followed by many similar projects since.</p>
+          <p>
+            <img src="images/contributors.png" alt="Screenshot of the Liquid Tensor Experiment contributors" style="width: 40%;" class="explicit-size"></p>
+          <aside class="notes"><p>
+              Often cited as a watershed moment for computer-assisted mathematics
+— a leading mathematician trusted a formalisation of his own result.</p>
+            </aside></section>
+        <section>
+          <div class="slide-header"><img src="lean-logo.png" alt="Lean"></div>
+          <h2>
+            Software Verification in Lean 4</h2>
+          <div class="r-hstack">
+            <p>
+              <img src="images/aws-lean.png" alt="AWS blog post: Lean Into Verified Software Development" style="width: 70%;" class="explicit-size"></p>
+            <p>
+              <img src="images/sampcert.png" alt="SampCert: verified discrete Gaussian sampler in Lean" style="width: 70%;" class="explicit-size"></p>
+            </div>
+          <p>
+            <img src="images/cedar.png" alt="AWS Cedar: a formal model of the Cedar authorisation language in Lean" style="width: 70%;" class="explicit-size"></p>
+          <aside class="notes"><p>
+              Lean is not just for pure mathematics. AWS uses it to verify Cedar,
+their authorisation language, and SampCert verifies a discrete
+Gaussian sampler used in differential privacy.</p>
+            </aside></section>
+        <section>
+          <div class="slide-header"><img src="lean-logo.png" alt="Lean"></div>
+          <h2>
+            Veil Verification Framework (NUS)</h2>
+          <div class="r-hstack">
+            <p>
+              <img src="images/veil-action.png" alt="Veil action example — request procedure with require/if/let" style="width: 70%;" class="explicit-size"></p>
+            <p>
+              <img src="images/veil-invariants.png" alt="Veil invariants and generated spec" style="width: 70%;" class="explicit-size"></p>
+            </div>
+          <p>
+            <a href="https://github.com/verse-lab/veil">github.com/verse-lab/veil</a></p>
+          <aside class="notes"><p>
+              Veil is a distributed-systems verification framework built on Lean.
+It embeds a small imperative action language inside Lean — exactly
+the flavour of thing we'll be doing today with Imp.</p>
+            </aside></section>
+        <section>
+          <div class="slide-header"><img src="lean-logo.png" alt="Lean"></div>
+          <h2>
+            AI with Lean</h2>
+          <div class="r-hstack">
+            <p>
+              <img src="images/alphaproof.png" alt="New York Times: Move Over, Mathematicians, Here Comes AlphaProof" style="width: 70%;" class="explicit-size"></p>
+            <p>
+              <img src="images/leancurious.png" alt="Lean-Curious: AI-assisted proof exploration" style="width: 70%;" class="explicit-size"></p>
+            </div>
+          <aside class="notes"><p>
+              DeepMind's AlphaProof reached silver-medal level at the 2024 IMO by
+translating natural-language problems into Lean and searching for
+proofs.</p>
+            </aside></section>
+        <section>
+          <div class="slide-header"><img src="lean-logo.png" alt="Lean"></div>
+          <h2>
+            The Lean Focused Research Organization (FRO)</h2>
+          <p>
+            A non-profit organisation dedicated to the development of Lean.</p>
+          <p>
+            Missions:</p>
+          <ul>
+            <li>
+              <p>
+                Address <strong>scalability</strong>, <strong>usability</strong>, and <strong>proof automation</strong> in Lean</p>
+              </li>
+            <li>
+              <p>
+                Support formal mathematics</p>
+              </li>
+            <li>
+              <p>
+                Achieve self-sustainability in 5 years</p>
+              </li>
+            </ul>
+          <p>
+            Supported by Simons Foundation International, Alfred P. Sloan Foundation, Merkin Family Foundation, Alex Gerko, and Convergent Research.</p>
+          <p>
+            <a href="https://lean-lang.org">lean-lang.org</a>  ·  <a href="https://lean-lang.org/fro">lean-lang.org/fro</a></p>
+          <aside class="notes"><p>
+              Small, focused team responsible for the Lean compiler, tooling, and
+library ecosystem. Funding model is philanthropic, aiming for
+self-sustainability by 2029.</p>
+            </aside></section>
+        <section>
+          <div class="slide-header"><img src="lean-logo.png" alt="Lean"></div>
+          <h2>
+            Agenda: verification of foreign programs in Lean</h2>
+          <ul>
+            <li>
+              <p>
+                Embedding languages in Lean</p>
+              </li>
+            <li>
+              <p>
+                Operational semantics of an imperative language</p>
+              </li>
+            <li>
+              <p>
+                Proving correctness of programs and optimizations</p>
+              </li>
+            <li>
+              <p>
+                Combining tools: calling SAT solvers from Lean</p>
+              </li>
+            </ul>
+          <aside class="notes"><p>
+              These four bullets are the agenda for the rest of the tutorial.
+Each maps to files in the <code>Imp/</code> tree.</p>
+            </aside></section>
+        <section>
+          <div class="slide-header"><img src="lean-logo.png" alt="Lean"></div>
+          <h2>
+            Imp: An Imperative Language</h2>
+          <p>
+            Statements: <code>while</code> loops, conditionals, assignment.</p>
+          <p>
+            Mutable memory; flat mapping from names to 32-bit values (no local scope).</p>
+          <div class="r-hstack">
+            <code class="hl lean block r-stretch"><span class="keyword token" data-binding="kw-occ-Lean.Parser.Command.definition-5216">def</span><span class="inter-text"> </span><span class="const token" data-binding="const-SlideExamples.fact" data-verso-hover="0">fact</span><span class="inter-text"> </span><span class="built-in delim token" data-binding="kw-occ-Lean.Parser.Term.typeSpec-5225">:</span><span class="inter-text"> </span><span class="const token" data-binding="const-Imp.Stmt" data-verso-hover="1">Stmt</span><span class="inter-text"> </span><span class="built-in delim token" data-binding="kw-occ-Lean.Parser.Command.declValSimple-5232">:=</span><span class="inter-text"> </span><span class="keyword token" data-binding="kw-occ-Imp.«termImp_{___}»-5235" data-verso-hover="2">imp</span><span class="inter-text"> </span><span class="punctuation bracket token" data-binding="kw-occ-Imp.«termImp_{___}»-5235">{</span><span class="inter-text">
+  </span><span class="unknown token" data-binding="">out</span><span class="inter-text"> </span><span class="built-in delim token" data-binding="kw-occ-Imp.«stmt_:=_;»-5243">:=</span><span class="inter-text"> </span><span class="literal number token" data-binding="">1</span><span class="punctuation separator token" data-binding="kw-occ-Imp.«stmt_:=_;»-5243">;</span><span class="inter-text">
+  </span><span class="keyword token" data-binding="kw-occ-Imp.«stmtWhile(_)_{___}»-5255" data-verso-hover="3">while</span><span class="inter-text"> </span><span class="punctuation bracket token" data-binding="kw-occ-Imp.«stmtWhile(_)_{___}»-5255">(</span><span class="unknown token" data-binding="">n</span><span class="inter-text"> </span><span class="punctuation operator token" data-binding="kw-occ-Imp.Expr.«exp_>_»-5262">&gt;</span><span class="inter-text"> </span><span class="literal number token" data-binding="">0</span><span class="punctuation bracket token" data-binding="kw-occ-Imp.«stmtWhile(_)_{___}»-5255">)</span><span class="inter-text"> </span><span class="punctuation bracket token" data-binding="kw-occ-Imp.«stmtWhile(_)_{___}»-5255">{</span><span class="inter-text">
+    </span><span class="unknown token" data-binding="">out</span><span class="inter-text"> </span><span class="built-in delim token" data-binding="kw-occ-Imp.«stmt_:=_;»-5275">:=</span><span class="inter-text"> </span><span class="unknown token" data-binding="">out</span><span class="inter-text"> </span><span class="punctuation operator token" data-binding="kw-occ-Imp.Expr.«exp_*_»-5282">*</span><span class="inter-text"> </span><span class="unknown token" data-binding="">n</span><span class="punctuation separator token" data-binding="kw-occ-Imp.«stmt_:=_;»-5275">;</span><span class="inter-text">
+    </span><span class="unknown token" data-binding="">n</span><span class="inter-text"> </span><span class="built-in delim token" data-binding="kw-occ-Imp.«stmt_:=_;»-5295">:=</span><span class="inter-text"> </span><span class="unknown token" data-binding="">n</span><span class="inter-text"> </span><span class="punctuation operator token" data-binding="kw-occ-Imp.Expr.«exp_-_»-5300">-</span><span class="inter-text"> </span><span class="literal number token" data-binding="">1</span><span class="punctuation separator token" data-binding="kw-occ-Imp.«stmt_:=_;»-5295">;</span><span class="inter-text">
+  </span><span class="punctuation bracket token" data-binding="kw-occ-Imp.«stmtWhile(_)_{___}»-5255">}</span><span class="inter-text">
+</span><span class="punctuation bracket token" data-binding="kw-occ-Imp.«termImp_{___}»-5235">}</span><span class="inter-text">
+</span><span class="unknown token" data-binding=""></span></code><code class="hl lean block r-stretch"><span class="keyword token" data-binding="kw-occ-Lean.Parser.Command.definition-5333">def</span><span class="inter-text"> </span><span class="const token" data-binding="const-SlideExamples.swap" data-verso-hover="4">swap</span><span class="inter-text"> </span><span class="built-in delim token" data-binding="kw-occ-Lean.Parser.Term.typeSpec-5342">:</span><span class="inter-text"> </span><span class="const token" data-binding="const-Imp.Stmt" data-verso-hover="1">Stmt</span><span class="inter-text"> </span><span class="built-in delim token" data-binding="kw-occ-Lean.Parser.Command.declValSimple-5349">:=</span><span class="inter-text"> </span><span class="keyword token" data-binding="kw-occ-Imp.«termImp_{___}»-5352" data-verso-hover="2">imp</span><span class="inter-text"> </span><span class="punctuation bracket token" data-binding="kw-occ-Imp.«termImp_{___}»-5352">{</span><span class="inter-text">
+  </span><span class="unknown token" data-binding="">temp</span><span class="inter-text"> </span><span class="built-in delim token" data-binding="kw-occ-Imp.«stmt_:=_;»-5360">:=</span><span class="inter-text"> </span><span class="unknown token" data-binding="">x</span><span class="punctuation separator token" data-binding="kw-occ-Imp.«stmt_:=_;»-5360">;</span><span class="inter-text">
+  </span><span class="unknown token" data-binding="">x</span><span class="inter-text"> </span><span class="built-in delim token" data-binding="kw-occ-Imp.«stmt_:=_;»-5373">:=</span><span class="inter-text"> </span><span class="unknown token" data-binding="">y</span><span class="punctuation separator token" data-binding="kw-occ-Imp.«stmt_:=_;»-5373">;</span><span class="inter-text">
+  </span><span class="unknown token" data-binding="">y</span><span class="inter-text"> </span><span class="built-in delim token" data-binding="kw-occ-Imp.«stmt_:=_;»-5383">:=</span><span class="inter-text"> </span><span class="unknown token" data-binding="">temp</span><span class="punctuation separator token" data-binding="kw-occ-Imp.«stmt_:=_;»-5383">;</span><span class="inter-text">
+</span><span class="punctuation bracket token" data-binding="kw-occ-Imp.«termImp_{___}»-5352">}</span><span class="inter-text">
+</span><span class="unknown token" data-binding=""></span></code><code class="hl lean block r-stretch"><span class="keyword token" data-binding="kw-occ-Lean.Parser.Command.definition-5416">def</span><span class="inter-text"> </span><span class="const token" data-binding="const-SlideExamples.min" data-verso-hover="5">min</span><span class="inter-text"> </span><span class="built-in delim token" data-binding="kw-occ-Lean.Parser.Term.typeSpec-5424">:</span><span class="inter-text"> </span><span class="const token" data-binding="const-Imp.Stmt" data-verso-hover="1">Stmt</span><span class="inter-text"> </span><span class="built-in delim token" data-binding="kw-occ-Lean.Parser.Command.declValSimple-5431">:=</span><span class="inter-text"> </span><span class="keyword token" data-binding="kw-occ-Imp.«termImp_{___}»-5434" data-verso-hover="2">imp</span><span class="inter-text"> </span><span class="punctuation bracket token" data-binding="kw-occ-Imp.«termImp_{___}»-5434">{</span><span class="inter-text">
+  </span><span class="keyword token" data-binding="kw-occ-Imp.«stmtIf(_)_{___}_Else_{___}»-5442" data-verso-hover="6">if</span><span class="inter-text"> </span><span class="punctuation bracket token" data-binding="kw-occ-Imp.«stmtIf(_)_{___}_Else_{___}»-5442">(</span><span class="unknown token" data-binding="">x</span><span class="inter-text"> </span><span class="punctuation operator token" data-binding="kw-occ-Imp.Expr.«exp_<_»-5446">&lt;</span><span class="inter-text"> </span><span class="unknown token" data-binding="">y</span><span class="punctuation bracket token" data-binding="kw-occ-Imp.«stmtIf(_)_{___}_Else_{___}»-5442">)</span><span class="inter-text"> </span><span class="punctuation bracket token" data-binding="kw-occ-Imp.«stmtIf(_)_{___}_Else_{___}»-5442">{</span><span class="inter-text">
+    </span><span class="unknown token" data-binding="">min</span><span class="inter-text"> </span><span class="built-in delim token" data-binding="kw-occ-Imp.«stmt_:=_;»-5459">:=</span><span class="inter-text"> </span><span class="unknown token" data-binding="">x</span><span class="punctuation separator token" data-binding="kw-occ-Imp.«stmt_:=_;»-5459">;</span><span class="inter-text">
+  </span><span class="punctuation bracket token" data-binding="kw-occ-Imp.«stmtIf(_)_{___}_Else_{___}»-5442">}</span><span class="inter-text"> </span><span class="keyword token" data-binding="kw-occ-Imp.«stmtIf(_)_{___}_Else_{___}»-5442" data-verso-hover="6">else</span><span class="inter-text"> </span><span class="punctuation bracket token" data-binding="kw-occ-Imp.«stmtIf(_)_{___}_Else_{___}»-5442">{</span><span class="inter-text">
+    </span><span class="unknown token" data-binding="">min</span><span class="inter-text"> </span><span class="built-in delim token" data-binding="kw-occ-Imp.«stmt_:=_;»-5484">:=</span><span class="inter-text"> </span><span class="unknown token" data-binding="">y</span><span class="punctuation separator token" data-binding="kw-occ-Imp.«stmt_:=_;»-5484">;</span><span class="inter-text">
+  </span><span class="punctuation bracket token" data-binding="kw-occ-Imp.«stmtIf(_)_{___}_Else_{___}»-5442">}</span><span class="inter-text">
+</span><span class="punctuation bracket token" data-binding="kw-occ-Imp.«termImp_{___}»-5434">}</span><span class="inter-text">
+</span><span class="unknown token" data-binding=""></span></code></div>
+          <aside class="notes"><p>
+              Three programs written in Imp, taken verbatim from
+<code>Imp/Stmt/Basic.lean</code>. Each <code>lean</code> block is elaborated against the
+real Imp library — the <code>imp { … }</code> syntax, the operators and the
+<code>Stmt</code> type all come from <code>Imp/Stmt/Basic.lean</code> and
+<code>Imp/Expr/Syntax.lean</code>.</p>
+            </aside></section>
+        <section>
+          <div class="slide-header"><img src="lean-logo.png" alt="Lean"></div>
+          <h2>
+            Next steps…</h2>
+          <ul>
+            <li>
+              <p>
+                Books:</p>
+              <ul>
+                <li>
+                  <p>
+                    <strong><a href="https://leanprover.github.io/theorem_proving_in_lean4/">Theorem Proving in Lean</a></strong></p>
+                  </li>
+                <li>
+                  <p>
+                    <strong><a href="https://lean-lang.org/functional_programming_in_lean/">Functional Programming in Lean</a></strong></p>
+                  </li>
+                </ul>
+              </li>
+            <li>
+              <p>
+                Get help on the Lean Zulip: <a href="https://leanprover.zulipchat.com">leanprover.zulipchat.com</a></p>
+              </li>
+            <li>
+              <p>
+                Have fun!</p>
+              </li>
+            </ul>
+          <aside class="notes"><p>
+              Point people at the two canonical books and the very friendly Zulip.</p>
+            </aside></section>
+        </div>
+      </div>
+    <script src="lib/reveal.js/dist/reveal.js"></script>
+    <script src="lib/reveal.js/plugin/notes/notes.js"></script>
+    <script src="lib/reveal.js/plugin/highlight/highlight.js"></script>
+    <script src="lib/katex/dist/katex.min.js"></script>
+    <script src="lib/math.js"></script>
+    <script>
+      
+      Reveal.initialize({
+        disableLayout: true,
+        hash: true,
+        controls: true,
+        progress: true,
+        slideNumber: true,
+        center: false,
+        transition: 'none',
+        width: 960,
+        height: 700,
+        margin: 0.000000,
+        navigationMode: 'default',
+        autoSlide: 0,
+        autoSlideStoppable: true,
+        autoSlideMethod: null,
+        plugins: [ RevealNotes, RevealHighlight ]
+      });
+    </script>
+    <script src="lib/marked.min.js"></script>
+    <script src="lib/popper.js"></script>
+    <script src="lib/tippy.js"></script>
+    <script src="lib/tippy-panel-filter.js"></script>
+    <script src="lib/highlighting.js"></script>
+    <script src="lib/code-block-bg.js"></script>
+    <script src="lib/pretty.js"></script>
+    <script src="lib/panel.js"></script>
+    <script src="lib/lightbox.js"></script>
+    <script src="lib/illuminate-reveal.js"></script>
+    </body>
+  </html>
