@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a Research Software Engineer at [Lean FRO](https://lean-fro.org), where I contribute to the development of the Lean theorem prover. My research interests span automated reasoning, programming language semantics, and formal verification. I maintain active ties with academia as an [Academic Visitor](https://profiles.imperial.ac.uk/wojciech.rozowski26) in the Department of Mathematics at Imperial College London and [Industrial Departmental Visitor](https://www.cst.cam.ac.uk/people/wkr21) in the Department of Computer Science and Technology at University of Cambridge.
+I am a Computer Scientist with research interests spanning automated reasoning, programming language semantics, and formal verification. Most recently, I was at [Lean FRO](https://lean-fro.org), where I contributed to the development of the Lean theorem prover. During that time, I also served as an as an [Academic Visitor](https://profiles.imperial.ac.uk/wojciech.rozowski26) in the Department of Mathematics at Imperial College London and [Industrial Departmental Visitor](https://www.cst.cam.ac.uk/people/wkr21) in the Department of Computer Science and Technology at University of Cambridge.
 
 I earned my PhD in Computer Science from University College London, under the supervision of [Alexandra Silva](https://alexandrasilva.org/#/main.html), as part of the [Programming Principles, Logic and Verification Group](http://pplv.cs.ucl.ac.uk/welcome/). My thesis was recognised by the [VeTSS](https://vetss.org.uk) Doctoral Dissertation Award. During my doctoral studies, I completed two research internships with the [Automated Reasoning Group](https://aws.amazon.com/security/provable-security/) of Amazon Web Services in Seattle.
 
@@ -17,7 +17,7 @@ My CV can be found [here](./files/CV2026-5.pdf).
 
 Outside of work, I enjoy shooting analog photography, drinking coffee, and collecting vinyl records from around the world.
 
-You can reach me at `#eval (fun name => name ++ "@lean-fro.org") "wojciech"` or ping me at Linkedin. 
+You can reach me at `#eval (fun name surname => name ++ "." ++ surname ++ "@gmail.com") "wojciech" "rozowski"` or ping me at Linkedin. 
 
 Research
 ===
